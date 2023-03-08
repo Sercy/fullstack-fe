@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@fullstack-fe/api": ["libs/api/src/index.ts"]
+      "@fullstack-fe/api": ["libs/api/src/index.ts"],
+      "@fullstack-fe/forms": ["libs/forms/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

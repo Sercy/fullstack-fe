@@ -10,10 +10,13 @@
   "dependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-hook-form": "^7.43.5",
     "react-is": "18.2.0",
-    "styled-components": "5.3.6"
+    "styled-components": "5.3.6",
+    "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@babel/preset-react": "^7.14.5",
     "@nrwl/cypress": "15.8.5",
     "@nrwl/eslint-plugin-nx": "15.8.5",
     "@nrwl/js": "15.8.5",
